@@ -42,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0372-super-pow) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
