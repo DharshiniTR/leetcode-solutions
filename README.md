@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0202-happy-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0268-missing-number) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -130,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
