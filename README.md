@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0821-shortest-distance-to-a-character](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
