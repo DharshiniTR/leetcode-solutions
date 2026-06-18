@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0372-super-pow) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2235-add-two-integers](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
