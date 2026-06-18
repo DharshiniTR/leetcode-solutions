@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 ## Math
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0771-jewels-and-stones](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0821-shortest-distance-to-a-character](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
