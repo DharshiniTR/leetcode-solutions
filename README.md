@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0372-super-pow) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2652-sum-multiples](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3663-find-the-least-frequent-digit](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3908-valid-digit-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3945-digit-frequency-score) |
