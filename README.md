@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3024-type-of-triangle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3663-find-the-least-frequent-digit](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3912-valid-elements-in-an-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3912-valid-elements-in-an-array) |
 ## Hash Table
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2544-alternating-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2652-sum-multiples](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2652-sum-multiples) |
+| [3024-type-of-triangle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3663-find-the-least-frequent-digit](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3908-valid-digit-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3908-valid-digit-number) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [3024-type-of-triangle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
