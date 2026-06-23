@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3663-find-the-least-frequent-digit](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
@@ -327,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
