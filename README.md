@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Matrix
 |  |
 | ------- |
