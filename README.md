@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0372-super-pow) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3663-find-the-least-frequent-digit](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
