@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3663-find-the-least-frequent-digit](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3701-compute-alternating-sum](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3912-valid-elements-in-an-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3912-valid-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0258-add-digits) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
+| [3701-compute-alternating-sum](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3813-vowel-consonant-score](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3813-vowel-consonant-score) |
 ## Counting
 |  |
