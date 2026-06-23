@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2544-alternating-digit-sum](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2544-alternating-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2652-sum-multiples](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3099-harshad-number) |
