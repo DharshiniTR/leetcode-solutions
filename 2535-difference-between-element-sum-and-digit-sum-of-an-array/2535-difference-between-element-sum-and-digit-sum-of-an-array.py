@@ -7,5 +7,5 @@ class Solution:
                 a.append(num%10)
                 num//=10
         s=sum(a)
-        return S-s
+        return abs(S-s)
 
