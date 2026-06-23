@@ -6,12 +6,14 @@ class Solution:
                 freq[ch]+=1
             else:
                 freq[ch]=1
-        m=0
         ans=0
+        m=0
         for ch in freq:
-           if freq[ch]>m:
-               m=freq[ch]
-               ans=ch
+            if freq[ch]>m:
+                m=freq[ch]
+                ans=ch
         return ans
+
+            
             
         
