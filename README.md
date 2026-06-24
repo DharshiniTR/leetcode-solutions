@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3663-find-the-least-frequent-digit](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3701-compute-alternating-sum](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2716-minimize-string-length) |
+| [2942-find-words-containing-character](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3136-valid-word) |
 | [3340-check-balanced-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3340-check-balanced-string) |
