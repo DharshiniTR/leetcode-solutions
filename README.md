@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3663-find-the-least-frequent-digit](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3701-compute-alternating-sum](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3912-valid-elements-in-an-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3912-valid-elements-in-an-array) |
 ## Hash Table
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2716-minimize-string-length) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3731-find-missing-elements](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3024-type-of-triangle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3024-type-of-triangle) |
+| [3731-find-missing-elements](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
