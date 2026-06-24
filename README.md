@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3136-valid-word) |
+| [3210-find-the-encrypted-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3210-find-the-encrypted-string) |
 | [3340-check-balanced-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3340-check-balanced-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3813-vowel-consonant-score](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3813-vowel-consonant-score) |
