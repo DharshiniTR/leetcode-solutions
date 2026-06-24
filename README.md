@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2716-minimize-string-length](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2716-minimize-string-length) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3945-digit-frequency-score](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3136-valid-word) |
 | [3340-check-balanced-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3340-check-balanced-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3813-vowel-consonant-score](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3813-vowel-consonant-score) |
 ## Sorting
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Stack
 |  |
