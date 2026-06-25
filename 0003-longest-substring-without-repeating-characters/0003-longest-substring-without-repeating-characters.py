@@ -6,8 +6,10 @@ class Solution:
             for j in range(i,len(s)):
                 if s[j] not in temp:
                     temp+=s[j]
+                    
                 else:
                     break
             if len(temp)>len(ans):
                ans=temp
+               
         return len(ans)
