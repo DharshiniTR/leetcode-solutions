@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0205-isomorphic-strings) |
