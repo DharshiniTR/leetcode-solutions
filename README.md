@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3663-find-the-least-frequent-digit](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3908-valid-digit-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Recursion
