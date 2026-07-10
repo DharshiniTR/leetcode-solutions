@@ -11,6 +11,7 @@ class Solution:
                 v-=1
             if s[i] in "aeiou":
                 v+=1
-            mx=max(mx,v)
+            if v>mx:
+                mx=v
         return mx
         
