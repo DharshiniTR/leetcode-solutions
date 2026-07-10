@@ -6,6 +6,7 @@ class Solution:
         mx=s
         for i in range(k,len(nums)):
             s+=nums[i]-nums[i-k]
-            mx=max(mx,s)
+            if s>mx:
+                mx=s
         return mx/k
         
