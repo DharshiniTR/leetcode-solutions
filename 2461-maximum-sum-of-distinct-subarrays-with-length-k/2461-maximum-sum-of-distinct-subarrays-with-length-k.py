@@ -1,7 +1,10 @@
 class Solution:
     def maximumSubarraySum(self, nums: List[int], k: int) -> int:
         w=nums[:k]
-        s=sum(w)
+        s=0
+        for ch in w:
+            s+=ch
+        print(s)
         c=Counter(w)
         mx=0
         if len(c)==k:
