@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0078-subsets) |
 | [0980-unique-paths-iii](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
