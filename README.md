@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2404-most-frequent-even-element](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3024-type-of-triangle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Tree
