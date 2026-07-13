@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0136-single-number) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0190-reverse-bits) |
@@ -439,5 +441,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0078-subsets) |
 | [0980-unique-paths-iii](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
