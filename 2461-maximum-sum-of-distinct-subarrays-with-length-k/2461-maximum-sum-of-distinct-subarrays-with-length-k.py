@@ -4,7 +4,6 @@ class Solution:
         s=0
         for ch in w:
             s+=ch
-        print(s)
         c=Counter(w)
         mx=0
         if len(c)==k:
