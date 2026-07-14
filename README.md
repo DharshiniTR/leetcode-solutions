@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3136-valid-word) |
+| [3174-clear-digits](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3210-find-the-encrypted-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3210-find-the-encrypted-string) |
 | [3340-check-balanced-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3340-check-balanced-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0258-add-digits) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
+| [3174-clear-digits](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3701-compute-alternating-sum](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3813-vowel-consonant-score](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3813-vowel-consonant-score) |
 ## Counting
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [2000-reverse-prefix-of-word](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Queue
 |  |
 | ------- |
