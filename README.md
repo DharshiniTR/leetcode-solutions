@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
