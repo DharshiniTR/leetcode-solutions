@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1544-make-the-string-great](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Queue
