@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
