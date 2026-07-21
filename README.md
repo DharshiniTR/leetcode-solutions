@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0700-search-in-a-binary-search-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0700-search-in-a-binary-search-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Backtracking
 |  |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Geometry
 |  |
 | ------- |
