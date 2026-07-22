@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Linked List
 |  |
@@ -582,10 +584,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [1791-find-center-of-star-graph](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
