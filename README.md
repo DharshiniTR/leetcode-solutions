@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3701-compute-alternating-sum](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3099-harshad-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3908-valid-digit-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3908-valid-digit-number) |
