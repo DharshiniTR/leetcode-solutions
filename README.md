@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1833-maximum-ice-cream-bars](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3024-type-of-triangle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3024-type-of-triangle) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1833-maximum-ice-cream-bars](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -615,4 +618,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
