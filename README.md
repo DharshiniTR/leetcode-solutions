@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0563-binary-tree-tilt](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0563-binary-tree-tilt](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0797-all-paths-from-source-to-target](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0563-binary-tree-tilt](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Backtracking
