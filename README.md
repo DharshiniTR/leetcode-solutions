@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0190-reverse-bits) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
