@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0704-binary-search) |
+| [0773-sliding-puzzle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 | [0812-largest-triangle-area](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0773-sliding-puzzle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 ## String Matching
 |  |
 | ------- |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0773-sliding-puzzle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 | [0980-unique-paths-iii](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0773-sliding-puzzle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 ## Enumeration
 |  |
 | ------- |
@@ -579,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0773-sliding-puzzle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 | [0797-all-paths-from-source-to-target](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 ## Breadth-First Search
@@ -592,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0773-sliding-puzzle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 | [0797-all-paths-from-source-to-target](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Linked List
