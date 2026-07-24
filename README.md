@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0797-all-paths-from-source-to-target](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0965-univalued-binary-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Backtracking
 |  |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0773-sliding-puzzle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 | [0797-all-paths-from-source-to-target](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0965-univalued-binary-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Linked List
 |  |
