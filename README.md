@@ -531,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0797-all-paths-from-source-to-target](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0965-univalued-binary-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Backtracking
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0773-sliding-puzzle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0773-sliding-puzzle) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0797-all-paths-from-source-to-target](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0965-univalued-binary-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -632,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Geometry
 |  |
 | ------- |
