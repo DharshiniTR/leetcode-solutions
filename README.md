@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3866-first-unique-even-element) |
+| [3895-count-digit-appearances](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3912-valid-elements-in-an-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3912-valid-elements-in-an-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3895-count-digit-appearances](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Recursion
