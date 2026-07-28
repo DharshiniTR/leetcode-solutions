@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3903-smallest-stable-index-i](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3912-valid-elements-in-an-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3912-valid-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3903-smallest-stable-index-i](https://github.com/DharshiniTR/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
 | ------- |
