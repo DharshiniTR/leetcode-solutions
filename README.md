@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0812-largest-triangle-area](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+| [1137-n-th-tribonacci-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2119-a-number-after-a-double-reversal](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/DharshiniTR/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0773-sliding-puzzle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0773-sliding-puzzle) |
+| [1137-n-th-tribonacci-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## String Matching
 |  |
 | ------- |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0773-sliding-puzzle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0773-sliding-puzzle) |
+| [1137-n-th-tribonacci-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Enumeration
 |  |
 | ------- |
