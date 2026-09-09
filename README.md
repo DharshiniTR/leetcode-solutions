@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0773-sliding-puzzle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 | [0812-largest-triangle-area](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0740-delete-and-earn](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0771-jewels-and-stones](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0773-sliding-puzzle](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0773-sliding-puzzle) |
 | [1137-n-th-tribonacci-number](https://github.com/DharshiniTR/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## String Matching
