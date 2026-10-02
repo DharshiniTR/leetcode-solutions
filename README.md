@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/DharshiniTR/leetcode-solutions/tree/master/0740-delete-and-earn) |
